@@ -1,6 +1,6 @@
 {
   "name": "@svackages/click-outside-action",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
@@ -35,6 +35,6 @@
   "bugs": {
     "url": "https://github.com/svackages/click-outside-action/issues"
   },
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "MIT",
   "type": "module"
 }
