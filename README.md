@@ -20,3 +20,4 @@ Install `npm install @svackages/click-outside-action`
 
 ```
 
+https://svelte.dev/repl/b817da3d3ad0468caf44e39871694e80?version=3.44.2 (credit: Pebor)
